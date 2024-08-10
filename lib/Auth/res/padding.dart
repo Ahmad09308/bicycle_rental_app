@@ -12,4 +12,9 @@ const EdgeInsets discountCardPadding = EdgeInsets.symmetric(horizontal: 16.0, ve
 const EdgeInsets transactionCardPadding = EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0);
 const EdgeInsets searchFieldPadding = EdgeInsets.all(8.0);
 const EdgeInsets spacerPadding = EdgeInsets.only(left: 12.0);
-
+const EdgeInsets pagePadding = EdgeInsets.all(16.0);
+const double imageHeight = 250.0;
+const double titleFontSize = 24.0;
+const double descriptionFontSize = 16.0;
+const double verticalSpacing = 20.0;
+const double smallVerticalSpacing = 10.0;
